@@ -1,3 +1,4 @@
+
 let menuBtn = document.getElementById("menuBtn");
 let sideNav = document.getElementById("sideNav");
 
@@ -12,6 +13,8 @@ menuBtn.onclick = function() {
         sideNav.style.right="-250px";
     }
 };
+
+
 
 
 
